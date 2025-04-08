@@ -67,7 +67,7 @@ OD Sheet:
 MIT License
 ## Contributing
 Welcome to submit issues and pull requests! For feature requests or bug reports, please use the issue tracker.
-## Version 1.0 | Updated 2023-12-15 | Developed by [Huai-Zheng Zheng]
+## Version 1.0 | Updated 2025-3-1 | Developed by [Huai-Zheng Zheng]
 ```Markdown
 Adaptation notes:
 1. Maintained all functional details from Chinese version
