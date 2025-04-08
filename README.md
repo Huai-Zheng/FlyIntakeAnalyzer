@@ -1,7 +1,4 @@
 # FlyIntakeAnalyzer - Drosophila Food Intake Analysis Tool
-
-![GUI Screenshot](screenshot.png) 
-
 ## Introduction
 
 A PyQt5-based GUI application for analyzing Drosophila feeding experiment data through absorbance measurements. Automates standard curve calculation, sample concentration determination, and food intake quantification to generate standardized reports.
