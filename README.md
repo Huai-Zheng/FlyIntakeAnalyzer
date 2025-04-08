@@ -34,7 +34,7 @@ pip install -r requirements.txt
     "OD" sheet with properly formatted data
 2. Run application:
 ```bash
-python FlyIntakeAnalyzer.py
+python Main.py
 ```
 3. Click 'Browse' to select input file
 4. Click 'Analyze' to start processing
