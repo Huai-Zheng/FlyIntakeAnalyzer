@@ -32,3 +32,9 @@ pip install -r requirements.txt
 
 # Windows users: Pre-built executable available
 
+### Usage
+1. Prepare Excel file containing:
+    "OD" sheet with properly formatted data
+2. Run application:
+python FlyIntakeAnalyzer.py
+
